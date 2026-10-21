@@ -67,6 +67,7 @@ Hyperlipidemia. Hypertriglyceridemia. Chronic vitamin D deficiency. Multiple lip
 ### 10. Ankle
 - Badly sprained 2026-09-27 at Sons of Pitches Sunday pickup. Resurgens 2026-09-28. Walking boot about three weeks, through about 2026-10-18. Not worn at home. Still healing 2026-10-19.
 - **Flare 2026-10-21** after playing soccer 2026-10-20, about three and a half weeks post-injury. Strict rest declared through the week of 2026-10-26. No soccer, no pickup, no BBL Bootcamp. Upper-body and seated work only with Armaani. Tell Wellstar PT at the next session.
+- Honest history 2026-10-21: has played 7v7 every Tuesday since the injury (~10 min a half, taped plus heavy brace in the cleat), rarely iced or elevated, walked on it daily. Swelling 30 to 50% of fresh-injury level. A give-way moment most days. 10-20: outside-ankle twinge on a hard inside-foot pass, walked off; no inside pain. Read: lax lateral ligament with peroneal tendon overload; deltoid and syndesmosis probably fine. Plan: no 7v7 for at least two weeks, brace for all walking 4 to 6 weeks, PT to add balance and peroneal work, Resurgens for MRI if swelling still above ~20% or give-way persists after two real weeks of rest.
 
 ### 11. Scalp and hair
 - One patch, 2 years, aggressive flare now. Thick gummy scale, sometimes weeps, hair loss over it. Washes 2 to 3x/day, no conditioner. Working read: seborrheic dermatitis plus overwashing; psoriasis, tinea capitis, scarring alopecia to be excluded by dermatology. Diffuse thinning on top (mother's observation), likely male pattern.
