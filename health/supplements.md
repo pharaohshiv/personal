@@ -1,4 +1,4 @@
-# Supplement stack (settled 2026-10)
+# Supplement stack (settled 2026-10-07, Amazon cart ~$138)
 
 Daily
 - Creatine monohydrate 5 g, in the morning shake. Sports Research unflavored.
