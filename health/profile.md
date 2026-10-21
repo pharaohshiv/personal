@@ -66,6 +66,7 @@ Hyperlipidemia. Hypertriglyceridemia. Chronic vitamin D deficiency. Multiple lip
 
 ### 10. Ankle
 - Badly sprained 2026-09-27 at Sons of Pitches Sunday pickup. Resurgens 2026-09-28. Walking boot about three weeks, through about 2026-10-18. Not worn at home. Still healing 2026-10-19.
+- **Flare 2026-10-21** after playing soccer 2026-10-20, about three and a half weeks post-injury. Strict rest declared through the week of 2026-10-26. No soccer, no pickup, no BBL Bootcamp. Upper-body and seated work only with Armaani. Tell Wellstar PT at the next session.
 
 ### 11. Scalp and hair
 - One patch, 2 years, aggressive flare now. Thick gummy scale, sometimes weeps, hair loss over it. Washes 2 to 3x/day, no conditioner. Working read: seborrheic dermatitis plus overwashing; psoriasis, tinea capitis, scarring alopecia to be excluded by dermatology. Diffuse thinning on top (mother's observation), likely male pattern.
