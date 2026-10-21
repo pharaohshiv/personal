@@ -20,3 +20,16 @@ To book, in order
 6. Nutritional counseling, optional. 4 visits/year covered.
 
 All specialist visits $25, PCP $10. Say "Oscar Health Plan of Georgia, Open Access HMO." Confirm in-network. Numbers Dr. Bandukwala texted for referrals: not yet recorded here.
+
+## Independent PCP candidates near Ponce City Market (added 2026-10-21)
+One Medical does not accept Oscar. Verify each of these in Oscar Find Care (hioscar.com/search) before booking.
+
+| Practice | Address | Phone | Notes |
+|---|---|---|---|
+| Emory Clinic at Midtown, primary care | 550 Peachtree St NE, 7th floor, Atlanta 30308 | 404-686-4594 | On the Emory University Hospital Midtown campus, which is in network on both Oscar Georgia tiers. Labs drawn on site. About 1.5 miles from PCM. First choice. |
+| Piedmont Physicians of Midtown | 1080 Peachtree St NE, Suite 12, Atlanta 30309 | 404-253-3660 | Nima Mansouri MD and Dawn Mabra MD listed as accepting new patients. Piedmont is absent from Oscar's 2026 Georgia network overview, so confirm before booking. |
+| The Kaufmann Clinic | 550 Peachtree St NE, Suite 1700 | | Private internal medicine. Confirm network. |
+| AllCare GA, Midtown | 805 Peachtree St NE, Suite A | | Dejhara Wellons DO. Confirm network. |
+
+## Pharmacy (added 2026-10-21)
+Oscar's listed pharmacy partners: CVS, Costco, Walmart, Safeway, Stop & Shop. Mail order: CVS Mail Order or Capsule. Amazon Pharmacy is not listed; assume out of network until Oscar confirms otherwise. Capsule delivers same day in Atlanta and is the closest substitute for the Amazon workflow.
