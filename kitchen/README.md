@@ -11,7 +11,8 @@ Deal
 - Perks: joint/edibles available; one THC dessert a month, labeled with a leaf sticker.
 
 Files
-- `Kitchen_Brief_for_Alana.docx` — the brief sent to her 2026-10-19
+- `Kitchen_Brief_for_Alana.pdf` — the brief, resent as PDF 2026-10-23 after the first .docx would not open on her phone
+- `Kitchen_Brief_for_Alana.docx` — same content, repackaged
 - `consultation-notes.md` — everything from the consultation transcripts and her notebook
 - `routines/prompts.txt` — four routine prompts (Saturday plan, two send checks, Friday feedback)
 
